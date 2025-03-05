@@ -1,4 +1,4 @@
-@RideHubBackend_HostAddress = http://localhost:5225
+@RideHubBackend_HostAddress = http://localhost:5002
 
 GET {{RideHubBackend_HostAddress}}/weatherforecast/
 Accept: application/json

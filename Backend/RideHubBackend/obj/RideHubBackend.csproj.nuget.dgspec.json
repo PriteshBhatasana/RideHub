@@ -1,15 +1,15 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\bhata\\Documents\\RideHub\\Backend\\RideHubBackend\\RideHubBackend.csproj": {}
+    "C:\\Users\\bhata\\Documents\\RideHub\\backend\\RidehubBackend\\RideHubBackend.csproj": {}
   },
   "projects": {
-    "C:\\Users\\bhata\\Documents\\RideHub\\Backend\\RideHubBackend\\RideHubBackend.csproj": {
+    "C:\\Users\\bhata\\Documents\\RideHub\\backend\\RidehubBackend\\RideHubBackend.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\bhata\\Documents\\RideHub\\Backend\\RideHubBackend\\RideHubBackend.csproj",
+        "projectUniqueName": "C:\\Users\\bhata\\Documents\\RideHub\\backend\\RidehubBackend\\RideHubBackend.csproj",
         "projectName": "RideHubBackend",
-        "projectPath": "C:\\Users\\bhata\\Documents\\RideHub\\Backend\\RideHubBackend\\RideHubBackend.csproj",
+        "projectPath": "C:\\Users\\bhata\\Documents\\RideHub\\backend\\RidehubBackend\\RideHubBackend.csproj",
         "packagesPath": "C:\\Users\\bhata\\.nuget\\packages\\",
         "outputPath": "C:\\Users\\bhata\\Documents\\RideHub\\Backend\\RideHubBackend\\obj\\",
         "projectStyle": "PackageReference",
@@ -51,6 +51,10 @@
         "net8.0": {
           "targetAlias": "net8.0",
           "dependencies": {
+            "Microsoft.AspNetCore.OpenApi": {
+              "target": "Package",
+              "version": "[8.0.13, )"
+            },
             "Swashbuckle.AspNetCore": {
               "target": "Package",
               "version": "[6.6.2, )"

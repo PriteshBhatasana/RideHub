@@ -1,0 +1,12 @@
+{
+  "Version": 1,
+  "Hash": "E//ySMq7xoa0Lw67uoMrluP/SzoGIq1fLtDsTuYApQI=",
+  "Source": "RideHubBackend",
+  "BasePath": "_content/RideHubBackend",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": [],
+  "Endpoints": []
+}
